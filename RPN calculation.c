@@ -1,3 +1,4 @@
+//RPN calculation
 double calculateRPN(const char* expression) {
     Stack s;
     initStack(&s);
